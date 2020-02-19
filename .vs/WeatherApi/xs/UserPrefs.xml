@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4B611EFB-7F17-44FB-913A-E343B2F75AAE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApi/Program.cs">
+    <Files>
+      <File FileName="WeatherApi/Program.cs" Line="13" Column="1" />
+      <File FileName="WeatherApi/appsettings.Debug.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherApi" expanded="True">
+            <Node name="WeatherApi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
